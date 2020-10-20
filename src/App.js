@@ -2,10 +2,16 @@ import React from 'react';
 import './App.css';
 import Row from './Row'
 import  requests from './request';
-
+import Banner from './Banner'
 function App() {
   return (
     <div className="App">
+    {/* Navbar work */}
+
+    {/* Banner  */}
+    <Banner/>
+
+
       <h1>lets build netflix clone</h1>
 
 
